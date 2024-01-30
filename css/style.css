@@ -95,17 +95,6 @@ footer a:hover { /* links in footer: hover state */
     box-shadow: 0 4px 12px rgba(95, 0, 255, 0.3);
 }
 
-.card {
-    background-color: #f4ccff;
-    box-shadow: 0 4px 12px rgba(185, 142, 255, 0.2), 0 8px 16px rgba(185, 142, 255, 0.1);
-    transition: background-color 0.3s ease, transform 0.3s ease;
-}
-
-.card:hover {
-    background-color: #e6b3ff;
-    transform: scale(1.05);
-}
-
 
 .card img {
     width: 100%;
